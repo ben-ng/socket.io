@@ -19,7 +19,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "engine.io": "ben-ng/engine.io"
+    "engine.io": "git://github.com/ben-ng/engine.io",
     "socket.io-parser": "2.2.1",
     "socket.io-client": "1.0.6",
     "socket.io-adapter": "0.2.0",
